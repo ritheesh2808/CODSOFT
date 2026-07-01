@@ -15,6 +15,14 @@ Artificial Intelligence
 25 June 2026 – 25 July 2026
 
 ---
+## Repository Structure
+
+```text
+CODSOFT/
+├── Task1_Chatbot
+├── Task2_TicTacToeAI
+├── Task3_RecommendationSystem
+└── docs
 
 ## Projects
 
