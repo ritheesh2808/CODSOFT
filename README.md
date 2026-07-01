@@ -30,7 +30,7 @@ An unbeatable Tic-Tac-Toe game using the Minimax algorithm.
 
 ---
 
-### ✅ Task 4 – Recommendation System
+### ✅ Task 3 – Recommendation System
 
 A recommendation system that suggests movies based on user preferences.
 
