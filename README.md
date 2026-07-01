@@ -15,6 +15,7 @@ Artificial Intelligence
 25 June 2026 – 25 July 2026
 
 ---
+
 ## Repository Structure
 
 ```text
@@ -23,6 +24,7 @@ CODSOFT/
 ├── Task2_TicTacToeAI
 ├── Task3_RecommendationSystem
 └── docs
+```
 
 ## Projects
 
@@ -48,7 +50,6 @@ A recommendation system that suggests movies based on user preferences.
 
 - Python
 - Tkinter
-- OpenCV (if required)
 - Pandas
 - NumPy
 - Scikit-learn
